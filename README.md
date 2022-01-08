@@ -80,7 +80,7 @@ at $9.48 USD for a single fruit.
 
 We can then use this result to suggest that each Age of Calamity rupee is worth $0.632 USD.
 
-## Final Fantasy XV noodles (`ff_xv_gil`)
+### Final Fantasy XV noodles (`ff_xv_gil`)
 
 You can sell a Cup Noodles (an actual real world item in a fantasy world) for 110 Gil and 
 buy at 220. At the time of writing, retail pricing is $0.82 USD per item, meaning that 1 
