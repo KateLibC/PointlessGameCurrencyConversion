@@ -1,0 +1,44 @@
+{
+    "currencies": {
+        "ff_vii_gil": {
+            "description": "Final Fantasy VII Gil",
+            "usd": 0.0001875,
+            "short": "Gil"
+        },
+        "ff_xv_gil": {
+            "description": "Final Fantasy XV Gil",
+            "usd": 0.00373,
+            "short": "Gil"
+        },
+        "starwars_rc": {
+            "description": "Star Wars Republic Credit",
+            "usd": 0.62,
+            "short": "Republic Credits"
+        },
+        "starwars_ic": {
+            "description": "Star Wars Imperial Credit",
+            "usd": 1.44,
+            "short": "Imperial Credits"
+        },
+        "zelda_botwr": {
+            "description": "Legend of Zelda, Breath of the Wild Rupee",
+            "usd": 0.15,
+            "short": "Hyrulian Rupees"
+        },
+        "zelda_aocr": {
+            "description": "Hyrule Warriors: Age of Calamity Rupee",
+            "usd": 0.632,
+            "short": "Hyrulian Rupees"
+        },
+        "darksouls": {
+            "description": "Dark Souls \"Souls\"",
+            "usd": 0.008,
+            "short": "Souls"
+        },
+        "osrunescape": {
+            "description": "\"Old School\" Runescape Gold Pieces",
+            "usd": 0.15,
+            "short": "GP"
+        }
+    }
+}
